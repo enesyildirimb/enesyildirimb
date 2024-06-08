@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enesyildirimb
 - 👨‍💻 I’m currently working on kys
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I’m currently working on kys
 
 <!---
 enesyildirimb/enesyildirimb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
